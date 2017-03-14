@@ -1,0 +1,10 @@
+D:\Mes cours\2007-2008\mes cours\C02 Objet\projet reveil\tp reveil\Reveil\Reveil\obj\Debug\Reveil.exe
+D:\Mes cours\2007-2008\mes cours\C02 Objet\projet reveil\tp reveil\Reveil\Reveil\obj\Debug\Reveil.pdb
+D:\Mes cours\2008-2009\bts info1\C09 Objet\projet reveil\tp reveil\Reveil\Reveil\obj\Debug\Reveil.exe
+D:\Mes cours\2008-2009\bts info1\C09 Objet\projet reveil\tp reveil\Reveil\Reveil\obj\Debug\Reveil.pdb
+D:\Mes cours\2008-2009\bts info1\C09 Objet\projet reveil\tp reveil\Reveil\Reveil\bin\Debug\Reveil.exe
+D:\Mes cours\2008-2009\bts info1\C09 Objet\projet reveil\tp reveil\Reveil\Reveil\bin\Debug\Reveil.pdb
+D:\Mes cours\2008-2009\bts info1\C09 Objet\projet reveil\tp reveil\Reveil\Reveil\obj\Debug\ResolveAssemblyReference.cache
+D:\Mes cours\2008-2009\bts info1\C09 Objet\projet reveil\tp reveil\Reveil\Reveil\obj\Debug\Reveil.Reveil.resources
+D:\Mes cours\2008-2009\bts info1\C09 Objet\projet reveil\tp reveil\Reveil\Reveil\obj\Debug\Reveil.Properties.Resources.resources
+D:\Mes cours\2008-2009\bts info1\C09 Objet\projet reveil\tp reveil\Reveil\Reveil\obj\Debug\Reveil.csproj.GenerateResource.Cache

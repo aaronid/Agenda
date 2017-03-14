@@ -1,0 +1,10 @@
+C:\Users\gferre2016\Desktop\Reveil\Reveil\obj\Debug\Reveil.exe
+C:\Users\gferre2016\Desktop\Reveil\Reveil\obj\Debug\Reveil.pdb
+D:\AUTRE\Reveil\Reveil\obj\Debug\Reveil.exe
+D:\AUTRE\Reveil\Reveil\obj\Debug\Reveil.pdb
+D:\AUTRE\Reveil\Reveil\bin\Debug\Reveil.exe
+D:\AUTRE\Reveil\Reveil\bin\Debug\Reveil.pdb
+D:\AUTRE\Reveil\Reveil\obj\Debug\Reveil.csprojResolveAssemblyReference.cache
+D:\AUTRE\Reveil\Reveil\obj\Debug\Reveil.Reveil.resources
+D:\AUTRE\Reveil\Reveil\obj\Debug\Reveil.Properties.Resources.resources
+D:\AUTRE\Reveil\Reveil\obj\Debug\Reveil.csproj.GenerateResource.Cache

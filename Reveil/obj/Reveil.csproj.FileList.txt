@@ -1,0 +1,8 @@
+bin\Debug\Reveil.exe
+bin\Debug\Reveil.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Reveil.Properties.Resources.resources
+obj\Debug\Reveil.csproj.GenerateResource.Cache
+obj\Debug\Reveil.exe
+obj\Debug\Reveil.pdb
+obj\Debug\Reveil.Reveil.resources
